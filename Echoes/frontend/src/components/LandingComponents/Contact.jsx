@@ -15,8 +15,8 @@ export default function Contact() {
         </p>
       </div>
       <div className="flex flex-col md:flex-row gap-7 md:gap-0 justify-around w-full">
-            <ContactCard email={true} title="Email" details="aakif.msiddiqui@gmail.com"/>
-            <ContactCard phone={true} title="Phone" details="+91-123-456-7890"/>
+            <ContactCard email={true} title="Email" details="Divyanshi Singh Karakoti"/>
+            <ContactCard phone={true} title="Phone" details="+91- 8920840671"/>
             <ContactCard location={true} title="Office" details="KIET Institute, Ghaziabad"/>
       </div>
     </div>
